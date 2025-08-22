@@ -21,11 +21,11 @@ Một trang web được xây dựng bằng **React.js** cho frontend. Trang web
 
 ## Frontend .env
 
-- Tạo file .env trong thư mục frontend: REACT_APP_API_URL=https://backendantoree.onrender.com/api
+- Tạo file .env trong thư mục frontend: REACT_APP_API_URL=
 
 ## 🚀 Chạy ứng dụng
 
 - Chạy frontend:
     npm start
 
-Frontend sẽ chạy tại https://antoree-test-pi.vercel.app/
+Frontend sẽ chạy tại 
